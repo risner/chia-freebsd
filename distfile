@@ -1,0 +1,9 @@
+TIMESTAMP = 1622309168
+SHA256 (Chia-Network-chia-blockchain-1.1.6_GH0.tar.gz) = 54695c3bf62176281a8ca6d0a5b94d083d0d8c34c80361b57e403578ffd152be
+SIZE (Chia-Network-chia-blockchain-1.1.6_GH0.tar.gz) = 591471
+SHA256 (Chia-Network-chia-blockchain-gui-444c6966fe50183c8d72cbc972c5403db341739c_GH0.tar.gz) = ef0841ff8d5f9117ff3d73efe1bc38c45345e3b75cdbbd64f5fa9dc9acdc2162
+SIZE (Chia-Network-chia-blockchain-gui-444c6966fe50183c8d72cbc972c5403db341739c_GH0.tar.gz) = 2765013
+SHA256 (Chia-Network-mozilla-ca-6e8c42b3ef7d4ded22a994f9886e63f0060020bd_GH0.tar.gz) = 10f09237f5f3617ebd5e841b9a8735e6c27f9a76dc074ea945522140c98fb4b6
+SIZE (Chia-Network-mozilla-ca-6e8c42b3ef7d4ded22a994f9886e63f0060020bd_GH0.tar.gz) = 124247
+SHA256 (Chia-Network-clvm_rs-6b32aef_GH0.tar.gz) = 427acd933cb1c2f4315f26e00202b1c2b704b2ead86ce5de2b4db0a10a364a1e
+SIZE (Chia-Network-clvm_rs-6b32aef_GH0.tar.gz) = 465990
