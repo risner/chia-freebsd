@@ -1,3 +1,5 @@
+/usr/ports/finance/py-chia-blockchain
+
 TODO
 py-cryptography port needs to support 3.4.7, currently only supports 3.3.2 release.
 Needs to link to my NEW PORT for clvm_rs.
