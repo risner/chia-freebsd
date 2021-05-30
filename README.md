@@ -1,8 +1,8 @@
-/usr/ports/finance/py-chia-blockchain
+/usr/ports/finance/py-chia-blockchain\
 
-TODO
-Build requirements:
-py-cryptography port needs to support 3.4.7, currently only supports 3.3.2 release. I failed to compile this.
+TODO\
+Build requirements:\
+py-cryptography port needs to support 3.4.7, currently only supports 3.3.2 release. I failed to compile this.\
 Run requirements:
 py-yaml port needs to support 5.4.1, currently only supports 5.3.1 release. I was able to create it.
 py-setproctitle port needs to support 1.2.2, currently only supports 1.1.10 release. I was able to compile this by changing numbers.
