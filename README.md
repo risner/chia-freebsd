@@ -13,3 +13,6 @@ Potential problems:
 May need to depend on a system wide keychain such as sysutils/pwsafe.
 
 I must actually test functionality.
+
+Of note, their original FreeBSD instructions are here:
+https://github.com/Chia-Network/chia-blockchain/wiki/FreeBSD-Install
