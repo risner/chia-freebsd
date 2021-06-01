@@ -1,19 +1,10 @@
 /usr/ports/finance/py-chia-blockchain\
 \
 TODO\
-Build requirements:\
-py-cryptography port needs to support 3.4.7, currently only supports 3.3.2 release. I failed to compile this.\
 Run requirements:\
-py-yaml port needs to support 5.4.1, currently only supports 5.3.1 release. I was able to create it.\
-py-setproctitle port needs to support 1.2.2, currently only supports 1.1.10 release. I was able to compile this by changing numbers.\
-py-keyrings.cryptfile port of version 1.3.4 needs to be created, I was able to create it. However it conflicts with py-keyring-18.0.1.\
-py-keyring port needs to support 23.0.1, currently only sypports 18.0.1. I was able to compile this, and replacing allows py-keyrings.cryptfile.\
-py-concurrent-log-handler port of version 0.9.19 needs to be created, I was able to create it.\
-py-bitstring port needs to support 3.1.7, currently only supports 3.1.5. I was able to create it.\
-py-aiosqlite port needs to support 0.17.0, currently only supports 0.15.0. I was able to create it.\
-py-aiohttp port needs to support 3.7.4, currently only supports 3.6.2. I was able to create it.\
-py-aiohttp port needs to support 5.0.1, currently only supports 4.7.0. I was able to create it.\
-py-clvm_tools port of version 0.4.3 needs to be created. I was able to create it - but I had to download from github the tar file. Pypi only had wheel. Also has clvm-tools vs clvm_tools naming issues upstream.\
+py-concurrent-log-handler submitted -> https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=256268 \
+py-clvm_rs submitted -> https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=256251 \
+py-clvm_tools port of version 0.4.3 needs to be created. I was able to create it - but I had to download from github the tar file. Pypi only had wheel.\
 \
 Needs to link to my NEW PORT for clvm_rs. I have submitted this to be added 5/29/21.\
 \
